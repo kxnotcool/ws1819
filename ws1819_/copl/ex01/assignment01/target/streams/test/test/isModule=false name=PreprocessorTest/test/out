@@ -1,0 +1,14 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPreprocessorTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- imp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested imp lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested imp rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- bi imp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested bi imp lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested bi imp rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested in not[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested in and lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested in and rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested in or lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nested in or rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- true[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- false[0m[0m

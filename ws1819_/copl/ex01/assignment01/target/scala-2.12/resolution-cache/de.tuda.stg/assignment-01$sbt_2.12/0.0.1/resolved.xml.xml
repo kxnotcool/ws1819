@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="de.tuda.stg"
+		module="assignment-01$sbt_2.12"
+		revision="0.0.1"
+		status="integration"
+		publication="20181105180706"
+	/>
+	<configurations>
+		<conf name="compile" visibility="public" description=""/>
+		<conf name="runtime" visibility="public" description="" extends="compile"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
+		<conf name="provided" visibility="public" description=""/>
+		<conf name="optional" visibility="public" description=""/>
+	</configurations>
+	<publications>
+	</publications>
+	<dependencies>
+		<dependency org="org.scala-sbt" name="sbt" rev="1.0.1" conf="compile->default(compile)"/>
+		<dependency org="org.jetbrains" name="sbt-structure-extractor" rev="2018.2" conf="compile->default(compile)" scalaVersion="2.12" sbtVersion="1.0"/>
+		<dependency org="org.jetbrains" name="sbt-idea-shell" rev="2017.2" conf="compile->default(compile)" scalaVersion="2.12" sbtVersion="1.0"/>
+		<dependency org="de.tudarmstadt.stg" name="sbt-submission" rev="1.2.0" conf="compile->default(compile)" scalaVersion="2.12" sbtVersion="1.0"/>
+		<dependency org="org.scalaj" name="scalaj-http_2.12" rev="2.3.0" conf="compile->default(compile)"/>
+		<dependency org="org.scala-lang" name="scala-library" rev="2.12.3" conf="compile->default(compile)" info.apiURL="http://www.scala-lang.org/api/2.12.3/"/>
+		<dependency org="com.typesafe.sbteclipse" name="sbteclipse-plugin" rev="5.2.3" conf="compile->default(compile)" scalaVersion="2.12" sbtVersion="1.0"/>
+		<dependency org="org.scalaz" name="scalaz-core_2.12" rev="7.2.14" conf="compile->default(compile)"/>
+		<dependency org="org.scalaz" name="scalaz-effect_2.12" rev="7.2.14" conf="compile->default(compile)"/>
+	</dependencies>
+</ivy-module>
