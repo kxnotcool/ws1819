@@ -45,10 +45,10 @@ function showimages(img1::Array{Float32,3}, img2::Array{Float32,3})
       imgshow2[i,j,:] = img2[:,i,j]
     end
   end
-
-  PyPlot.subplot(211)
+  fig, (ax1, ax2) = PyPlot.subplots(1,2)
+  PyPlot.subplot(ax1)
   PyPlot.imshow(imgshow1)
-  PyPlot.subplot(212)
+  PyPlot.subplot(ax2)
   PyPlot.imshow(imgshow2)
   gcf()
 
