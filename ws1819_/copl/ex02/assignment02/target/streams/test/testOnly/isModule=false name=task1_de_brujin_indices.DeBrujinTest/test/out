@@ -1,0 +1,34 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDeBrujinTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv num literal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv addition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv subtraction[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv let ref[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv let let ref[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv let let add ref[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv deep ref[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv add with ref in lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv add with ref in rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv sub with ref in lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv sub with ref in rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv ref in named expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv nested ref in named expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv same ref, different depths[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv same symbols[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv same name for named expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv Symbol in named expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv Nesting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- conv static scoping[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp num literal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp addition[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp subtraction[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp let ref[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp let let ref[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp deep ref[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp add with ref in lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp add with ref in rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp sub with ref in lhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp sub with ref in rhs[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp ref in named expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp nested ref in named expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp same ref, different depths[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp static scoping[0m[0m

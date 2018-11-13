@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mExtendedF1LAETest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- App[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If0 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If0 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If0, Let and Sub[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If0 and App[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Nested If0 and App[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If0 and Let[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If0, App and Let 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- If0, App and Let 2[0m[0m

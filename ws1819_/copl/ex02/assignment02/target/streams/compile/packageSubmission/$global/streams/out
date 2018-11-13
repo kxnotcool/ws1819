@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/target/scala-2.12/assignment-02_2.12-0.0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/test/scala/task4_multiple_arguments/MultipleArgumentsTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/test/scala/task4_multiple_arguments/MultipleArgumentsTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/main/scala/task2_implementing_and_using_extended_F1LAE/Fibonacci.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task2_implementing_and_using_extended_F1LAE/Fibonacci.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/main/scala/task2_implementing_and_using_extended_F1LAE/ExtendedF1LAE.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task2_implementing_and_using_extended_F1LAE/ExtendedF1LAE.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/test/scala/task2_implementing_and_using_extended_F1LAE/FibonacciTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/test/scala/task2_implementing_and_using_extended_F1LAE/FibonacciTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/main/scala/task4_multiple_arguments/MultipleArguments.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task4_multiple_arguments/MultipleArguments.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/test/scala/task1_de_brujin_indices/DeBrujinTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/test/scala/task1_de_brujin_indices/DeBrujinTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/main/scala/task3_zip/Zip.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task3_zip/Zip.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/test/scala/task3_zip/ZipTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/test/scala/task3_zip/ZipTest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/main/scala/task1_de_brujin_indices/DeBrujin.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task1_de_brujin_indices/DeBrujin.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	src/test/scala/task2_implementing_and_using_extended_F1LAE/ExtendedF1LAETest.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/test/scala/task2_implementing_and_using_extended_F1LAE/ExtendedF1LAETest.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

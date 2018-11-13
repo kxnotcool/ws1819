@@ -18,7 +18,7 @@ function createfilters()
   g_unit[3,1] = Gsy1
   fx = g_unit * fx_unit
 
-  fy = fx_unit' * g_unit'   #normalization?
+  fy = fx_unit' * g_unit'   
 
 
   return fx::Array{Float64,2}, fy::Array{Float64,2}
@@ -148,6 +148,4 @@ function problem4()
   gcf()
   return
 end
-# f = (1,2,3)   h = (10,20,30)
-#     (4,5,6)       (40,50,60)
-#     (7,8,9)       (70,80,90)
+

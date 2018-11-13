@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMultipleArgumentsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp let[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp let app2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp let let app2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app, expr in arg[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app1, let in add[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app2, let in add, 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp app2, let in add, 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- interp complex[0m[0m
