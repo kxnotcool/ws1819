@@ -78,8 +78,8 @@ function interpolate(r::Array{Float64,2},g::Array{Float64,2},b::Array{Float64,2}
       m=j+1
       image[i, j, 2] = (galt[n, m-1] + galt[n, m+1])/2
       image[i, j, 3] = (balt[n-1, m] + balt[n+1, m])/2
-      image[i+1, j, 1] = (ralt[n-1, m] + ralt[n+1, m] + ralt[n, m-1] + ralt[n, m+1])/4
-      image[i+1, j, 2] = (galt[n-1, m-1] + galt[n-1, m+1] + galt[n+1, m-1] + galt[n+1, m+1])/4
+    #  image[i+1, j, 1] = (ralt[n-1, m] + ralt[n+1, m] + ralt[n, m-1] + ralt[n, m+1])/4
+    #  image[i+1, j, 2] = (galt[n-1, m-1] + galt[n-1, m+1] + galt[n+1, m-1] + galt[n+1, m+1])/4
       image[i, j+1, 1] = (ralt[n-1, m+1] + ralt[n+1, m+1] + ralt[n, m] + ralt[n, m+2])/4
       image[i, j+1, 3] = (balt[n-1, m] + balt[n-1, m+2] + balt[n+1, m] + balt[n+1, m+2])/4
       image[i+1, j+1, 2] = (galt[n+2, m+1] + galt[n, m+1])/2

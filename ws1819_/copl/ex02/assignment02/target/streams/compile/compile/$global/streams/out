@@ -1,4 +1,11 @@
-[0m[[0m[31merror[0m] [0m[0m/home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task1_de_brujin_indices/DeBrujin.scala:49:20: not found: value subs2[0m
-[0m[[0m[31merror[0m] [0m[0m      interp(body, subs2)[0m
-[0m[[0m[31merror[0m] [0m[0m                   ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task4_multiple_arguments/MultipleArguments.scala:38:48: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Symbol[0m
+[0m[[0m[31merror[0m] [0m[0m required: (Symbol, task4_multiple_arguments.MultipleArguments.FunDef)[0m
+[0m[[0m[31merror[0m] [0m[0m          val funDefhead = Map[Symbol, FunDef](funName, FunDef(funName, x::Nil, body))[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/yankun/studium/ws1819_repo/ws1819_/copl/ex02/assignment02/src/main/scala/task4_multiple_arguments/MultipleArguments.scala:38:63: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : task4_multiple_arguments.MultipleArguments.FunDef[0m
+[0m[[0m[31merror[0m] [0m[0m required: (Symbol, task4_multiple_arguments.MultipleArguments.FunDef)[0m
+[0m[[0m[31merror[0m] [0m[0m          val funDefhead = Map[Symbol, FunDef](funName, FunDef(funName, x::Nil, body))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -8,3 +8,10 @@ test
 testOnly task4_multiple_arguments.MultipleArgumentsTest
 test
 submit yw21salu B6BE3690
+test
+testOnly task4_multiple_arguments.MultipleArgumentsTest
+debug
+bug
+testOnly task4_multiple_arguments.MultipleArgumentsTest
+debug 
+testOnly task4_multiple_arguments.MultipleArgumentsTest

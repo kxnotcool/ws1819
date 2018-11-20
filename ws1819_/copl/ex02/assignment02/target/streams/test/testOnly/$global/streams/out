@@ -1,8 +1,9 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(task4_multiple_arguments.MultipleArgumentsTest, org.scalatest.tools.Framework$$anon$1@2f18175c, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 204 milliseconds.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(task4_multiple_arguments.MultipleArgumentsTest, org.scalatest.tools.Framework$$anon$1@2a44d981, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 142 milliseconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 12[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 12, failed 0, canceled 0, ignored 0, pending 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
-[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	task4_multiple_arguments.MultipleArgumentsTest[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 11, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	task4_multiple_arguments.MultipleArgumentsTest[0m
+[0m[[0m[31merror[0m] [0m[0m(test:[31mtestOnly[0m) sbt.TestsFailedException: Tests unsuccessful[0m

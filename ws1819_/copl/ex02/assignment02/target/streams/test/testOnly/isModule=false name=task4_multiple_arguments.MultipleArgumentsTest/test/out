@@ -10,4 +10,5 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- interp app1, let in add[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- interp app2, let in add, 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- interp app2, let in add, 2[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- interp complex[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- interp complex *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Expected 42, but got -14 (MultipleArgumentsTest.scala:77)[0m[0m

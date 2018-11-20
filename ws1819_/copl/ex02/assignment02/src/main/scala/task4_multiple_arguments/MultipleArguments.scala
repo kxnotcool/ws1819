@@ -32,13 +32,22 @@ object MultipleArguments {
     case Let(boundId, namedExpr, boundExpr) =>
       interp(subst(boundExpr, boundId, Num(interp(namedExpr, funDefs))), funDefs)
     case App(funName, argExpr) => funDefs(funName) match {                         //add App case here
-      case FunDef(funName, argNames, body) => {
-        var mybody = body
+      case FunDef(funName, argNames, body) => argNames match {
+        case Nil => interp(body, funDefs)
+        case x::xss =>
+          println("count1" + " value: " + argNames.size + " and " + argExpr.size + ", " + interp(argExpr.head, funDefs))
+          val mybody = subst(body, x, interp(argExpr.head, funDefs))
+          println("count2" + " value: " + argNames.size + " and " + argExpr.size + ", " + interp(argExpr.head, funDefs))
+          val myfunDefs = funDefs + (funName->FunDef(funName, xss, mybody))
+          interp(App(funName, argExpr.tail), myfunDefs)
+
+
+       /* var mybody = body
         var i = 0
         for( i <- 0 until argNames.size ){
           mybody = subst(mybody, argNames(i), interp(argExpr(i), funDefs))
         }
-        interp(mybody, funDefs)
+        interp(mybody, funDefs)*/
       }
     } // see ExtendedF1LAE
   }
