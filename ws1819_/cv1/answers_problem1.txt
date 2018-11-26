@@ -1,0 +1,5 @@
+Porblem 1
+7.What is the difference between the top (coarsest) level of Gaussian and Laplacian pyramids?
+The top level of Gaussian and Lapacian pyramids is the same, but the coarsest level of Gaussian and Laplacian are different. The coarsest level of Gaussian show the orignal bild, but the coarsest level of Laplacian show the high frequency part, which is the differece between the orginal bild and the orginal bild after a Gaussian smooth.
+
+8.The higher the Gaussian pyramid level, the greater the difference between the sharpened image and the original image.

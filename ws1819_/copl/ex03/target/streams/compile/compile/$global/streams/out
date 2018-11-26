@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/yankun/studium/ws1819_repo/ws1819_/copl/ex03/src/main/scala/task2_PreprocMultiarg.scala:11:34: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: MLAdd(_, _), MLApp(_, _), MLId(_), MLLet(_, _, _), MLNum(_), MLSub(_, _)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    case MLApp(funExpr, args) => funExpr match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

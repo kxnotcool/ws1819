@@ -1,0 +1,1 @@
+the variance of a single principal component is corresponding lamdba. because we are using the covariance matrix to compute SVD, so the lambda of the principal components are representing the variance of the corresponding components.

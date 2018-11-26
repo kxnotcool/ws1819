@@ -1,0 +1,14 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPreprocMultiargTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31mPreprocMultiargTest *** ABORTED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.RuntimeException: Can only handle function expressions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.sys.package$.error(package.scala:27)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at PreprocMultiarg$.preprocMultiarg(task2_PreprocMultiarg.scala:19)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at PreprocMultiarg$.preprocMultiarg(task2_PreprocMultiarg.scala:34)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at PreprocMultiargTest.<init>(task2_PreprocMultiargTest.scala:31)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.lang.reflect.Constructor.newInstance(Constructor.java:423)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.lang.Class.newInstance(Class.java:442)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at org.scalatest.tools.Framework$ScalaTestTask.execute(Framework.scala:435)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
